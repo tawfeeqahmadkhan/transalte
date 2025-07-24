@@ -1,19 +1,18 @@
 {
-    "myProfile": "ملفي الشخصي",
-    "userAvatar": "صورة المستخدم",
-    "edit": "تعديل",
-    "personalInformation": "معلومات شخصية",
-    "firstName": "الاسم الأول",
-    "lastName": "اسم العائلة",
-    "email": "البريد الإلكتروني",
-    "phone": "الهاتف",
-    "resetYourPassword": "إعادة تعيين كلمة المرور",
-    "currentPassword": "كلمة المرور الحالية",
-    "newPassword": "كلمة المرور الجديدة",
-    "reEnterPassword": "أعد إدخال كلمة المرور",
-    "updatePassword": "تحديث كلمة المرور",
-    "cancel": "إلغاء",
-    "editProfile": "تعديل الملف الشخصي",
-    "confirmPasswordError": "يجب أن تكون كلمة المرور المؤكدة متطابقة"
-  }
-  
+    "myProfile": "Мой профиль",
+    "userAvatar": "Аватар пользователя",
+    "edit": "Редактировать",
+    "personalInformation": "Личная информация",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "email": "Электронная почта",
+    "phone": "Телефон",
+    "resetYourPassword": "Сбросить пароль",
+    "currentPassword": "Текущий пароль",
+    "newPassword": "Новый пароль",
+    "reEnterPassword": "Повторите пароль",
+    "updatePassword": "Обновить пароль",
+    "cancel": "Отмена",
+    "editProfile": "Редактировать профиль",
+    "confirmPasswordError": "Пароли должны совпадать"
+}
