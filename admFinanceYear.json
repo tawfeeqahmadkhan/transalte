@@ -1,0 +1,23 @@
+{
+    "Create Finance Year": "إنشاء سنة مالية",
+    "Finance Year (FY-YYYY)": "السنة المالية (FY-YYYY)",
+    "e.g., FY-2000": "مثال: FY-2000",
+    "Finance Year required": "السنة المالية مطلوبة",
+    "Start Date": "تاريخ البدء",
+    "Start Date is required.": "تاريخ البدء مطلوب.",
+    "End Date": "تاريخ الانتهاء",
+    "End Date is required.": "تاريخ الانتهاء مطلوب.",
+    "End Date cannot be before Start Date.": "لا يمكن أن يكون تاريخ الانتهاء قبل تاريخ البدء.",
+    "Set as Active Year": "تعيين كسنة نشطة",
+    "Creating...": "جاري الإنشاء...",
+    "Edit Finance Year": "تعديل السنة المالية",
+    "Cancel": "إلغاء",
+    "Updating...": "جاري التحديث...",
+    "Update Finance Year": "تحديث السنة المالية",
+    "All Financial Years": "جميع السنوات المالية",
+    "Year": "السنة",
+    "Active": "نشطة",
+    "Actions": "الإجراءات",
+    "Yes": "نعم",
+    "No": "لا"
+}
