@@ -500,8 +500,8 @@
   "Bill To": "فاتورة إلى",
   "Invoice No": "رقم الفاتورة",
   "Issue Date": "تاريخ الإصدار",
-  "Invoice not found":"",
-   "Invoice data fetched successfully": "تم جلب بيانات الفاتورة بنجاح",
+  "Invoice not found": "",
+  "Invoice data fetched successfully": "تم جلب بيانات الفاتورة بنجاح",
   "No items added.": "لم يتم إضافة أي عناصر.",
   "Enter Quantity": "أدخل الكمية",
   "Please Enter Correct Invoice Number": "يرجى إدخال رقم فاتورة صحيح",
@@ -546,5 +546,4 @@
   "Select Multiply classes & sections": "حدد عدة صفوف وأقسام",
   "Search by Name QID Email...": "البحث حسب الاسم، الرقم الشخصي، البريد الإلكتروني...",
   "History": "السجل"
-  
 }

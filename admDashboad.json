@@ -26,5 +26,8 @@
   "November": "نوفمبر",
   "December": "ديسمبر",
   "Attendence": "الحضور",
-  "No Attendance Data Found": "لم يتم العثور على بيانات الحضور"
+  "No Attendance Data Found": "لم يتم العثور على بيانات الحضور",
+  "Attendance": "الحضور",
+  "Top Ranking Students": "الطلاب الأعلى تصنيفًا",
+  "No student yet to come": "لا يوجد طلاب قادمون بعد"
 }
